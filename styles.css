@@ -1,2 +1,8 @@
 
 /* Your CSS Code here. */
+div, p, h1{
+	display:block;
+}
+button,span,input,cite,code,sup,sub{
+	display:inline;
+}
